@@ -20,7 +20,7 @@ The models demonstrate high precision in capturing the complex dynamics of the S
 * **Fourier Series Model:**
     * **MAE:** `0.95°` (~105 km), providing a robust, noise-resistant seasonal trend.
 * **Phase Shift Correction:**
-    * Identified and corrected a temporal anomaly in historical satellite sampling. The final model shows a negligible phase shift of only **-1.17 days**, confirming perfect synchronization with the natural seasonal cycle.
+    *  The final model shows a negligible phase shift of only **-1.17 days**, confirming perfect synchronization with the natural seasonal cycle.
 
 ## Visualization Note
 The header animation shows a **3-year representative sample** (1095 days) of the modeled vs. observed ice edge. This subset was selected to ensure high performance and accessibility of the repository while perfectly demonstrating the model's seasonal accuracy.
